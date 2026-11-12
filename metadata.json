@@ -1,0 +1,6 @@
+{
+  "name": "API Loja MVC — Projeto Backend Node.js & Express",
+  "description": "Explorador de código MVC, modelagem MySQL com Sequelize, documentação e testador interativo de endpoints RESTful.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
